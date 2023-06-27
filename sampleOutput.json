@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Titanic tourist sub goes missing sparking search",
+      "description": "Submersible used to take tourists to view wreck of Titanic goes missing in Atlantic Ocean, sparking search and rescue mission.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65953872",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-06-19T13:52:17.9302651Z",
+      "content": "A submersible used to take tourists to view the wreck of the Titanic has gone missing in the Atlantic Ocean, sparking a search and rescue mission.\r\nThe Boston Coastguard told the BBC a search operati… [+505 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US and China pledge to stabilise tense relationship after talks",
+      "description": "US Secretary of State Antony Blinken met China's president for talks at the end of a visit to Beijing.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-65947192",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11F2A/production/_130141537_gettyimages-1258808116.jpg",
+      "publishedAt": "2023-06-19T13:37:22.6334142Z",
+      "content": "The US and China have pledged to stabilise their tense relationship following US Secretary of State Antony Blinken's two-day visit to Beijing.\r\nMr Blinken met China's President Xi Jinping for talks o… [+2203 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Greece boat disaster: Trafficking suspects plead not guilty",
+      "description": "Nine men have appeared in court in connection with last week's migrant boat disaster in Greece.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65947919",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8EBE/production/_130124563_migrantboatair1.png",
+      "publishedAt": "2023-06-19T12:07:22.5297373Z",
+      "content": "Nine Egyptian men accused of causing a disaster last week when a vessel carrying hundreds of people sank off the Greek coast have pleaded not guilty. \r\nThe nine suspects - all aged between 20 and 40 … [+2249 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Graf Spee: Nazi battleship's bronze eagle saved from smelter",
+      "description": "A plan to melt down the eagle from the Graf Spee and turn it into a statue of a dove is scrapped.",
+      "url": "http://www.bbc.co.uk/news/world-latin-america-65943819",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13578/production/_130142297_gettyimages-57661017.jpg",
+      "publishedAt": "2023-06-19T11:07:22.2287507Z",
+      "content": "The future of a bronze eagle which once adorned the Nazi battleship Admiral Graf Spee remains uncertain after plans to melt it down were scrapped. \r\nTreasure hunters raised the eagle in 2006 off the … [+2593 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Bebe Rexha rushed off stage after a phone hits her in the face",
+      "description": "The pop star collapsed to the floor after being hit in the face during a concert in New York.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-65948988",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10A12/production/_130141186_630569dd310b32a56bda082f6f6545a327ae4e87.jpg",
+      "publishedAt": "2023-06-19T10:52:20.588367Z",
+      "content": "Pop star Bebe Rexha was rushed off stage during a concert on Saturday after being hit in the head by a phone thrown by a fan.\r\nThe star, who was performing in New York, collapsed to her knees when th… [+3118 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Covid inquiry live: Former PM David Cameron gives evidence",
+      "description": "The former prime minister is being questioned about austerity and its impact on pandemic preparations.",
+      "url": "http://www.bbc.co.uk/news/live/uk-65930692",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-06-19T10:22:23.1363359Z",
+      "content": "Its expected that a lot of todays hearing will focus on the policy of austerity implemented by David Cameron during his time as prime minister. \r\nCameron committed to reducing government spending in … [+784 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Houston rapper Big Pokey dies after collapsing during performance",
+      "description": "He was best known as a member of the Screwed Up Click, an influential group of Houston-based artists",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65948497",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF16/production/_130141035_gettyimages-1369481951.jpg",
+      "publishedAt": "2023-06-19T09:52:19.0094897Z",
+      "content": "US rapper Big Pokey has died after collapsing during a performance in Texas.\r\nThe artist, whose real name was Milton Powell, was performing at a Juneteenth-themed event at a bar on Saturday when he f… [+1370 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Alexei Navalny: Putin critic facing decades in prison as new trial begins",
+      "description": "The Russian opposition leader faces multiple charges of extremism, which he says are politically motivated.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65946891",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/282A/production/_130128201_855d0e1dadcb0cb1d71a4c2b1496586c1caf58f0.jpg",
+      "publishedAt": "2023-06-19T07:07:18.8712482Z",
+      "content": "The jailed Russian opposition leader Alexei Navalny is facing a new trial on charges of extremism that could keep him in prison for decades.\r\nMr Navalny is already serving a nine-year sentence for pa… [+2028 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: BBC on the front line as Ukraine attacks Russian trenches",
+      "description": "Quentin Sommerville joins troops pushing eastward from a recaptured village in Donetsk.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65921377",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3F8/production/_130127064_zhekatrench.png",
+      "publishedAt": "2023-06-19T05:07:18.7758744Z",
+      "content": "Two weeks since the counter-offensive began, Ukraine is making modest but steady progress in three areas of attack across the 1,000km (620 mile) front line. \r\nTroops are launching probing attacks, wh… [+8271 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Clark holds off McIlroy's challenge to win US Open",
+      "description": "Wyndham Clark produces a nerveless display as he holds off Rory McIlroy to win the US Open at the Los Angeles Country Club.",
+      "url": "http://www.bbc.co.uk/sport/golf/65946664",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/F412/production/_130128426_gettyimages-1499611971.jpg",
+      "publishedAt": "2023-06-19T03:37:18.3213231Z",
+      "content": "Rory McIlroy's nine-year wait for a fifth major win goes on after he was beaten by one shot by American Wyndham Clark at the US Open in Los Angeles.\r\nClark, 29, carded a level-par 70 to claim his fir… [+4863 chars]"
+    }
+  ]
+}
